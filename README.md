@@ -58,9 +58,6 @@ This C++ project demonstrates Huffman coding, a popular algorithm used for lossl
    - Open the `inputfilename_compressed.bin` file to view the compressed binary data.
    - Open the `inputfile_decompressed.txt` file to view the decompressed content.
 
-## Contributing
-
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
 
 
 Feel free to customize this README based on your specific project details and requirements. Additionally, you may want to include sections such as "Acknowledgements," "Troubleshooting," or "Future Improvements" depending on the nature and complexity of your project.
