@@ -48,6 +48,7 @@ This C++ project demonstrates Huffman coding, a popular algorithm used for lossl
 
 1. **Input File**:
    - Create a text file (e.g., input.txt) with the content you want to compress.
+   - Pass the path of the input file as command line argument
 
 2. **Run the Program**:
    - Execute the compiled program.
