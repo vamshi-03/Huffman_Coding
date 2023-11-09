@@ -1,4 +1,4 @@
-# Huffman_Coding
+# Huffman_Coding_Project
 
 ## Overview
 
